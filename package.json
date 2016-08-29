@@ -1,0 +1,19 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "main": "myModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaunjovi/learnNodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaunjovi/learnNodejs/issues"
+  },
+  "homepage": "https://github.com/kaunjovi/learnNodejs#readme"
+}
